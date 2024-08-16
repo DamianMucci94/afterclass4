@@ -25,3 +25,12 @@ pip install django
 django-admin --version
 
 ## Crear .gitignore para el proyecto Django
+
+## Creacion de requirements.txt
+
+pip freeze >> requirements.txt
+guardo los paquetes instalados del entorno virtual
+
+## Instalar paquetes a partir de requirements.txt
+
+pip install -r requirements.txt
