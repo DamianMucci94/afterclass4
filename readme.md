@@ -1,4 +1,4 @@
-# Proyecto Django
+# Proyecto Django (elaborado por el profesor de la cursada)
 
 ## Creacion de un entorno virtual para el proyecto Django
 
